@@ -1,9 +1,2 @@
-## Goodbye, everyone.
-
-
-
-**We've ceased all operations as of 11/09/2023 - the 9th November.**
-
-It's hard to keep up a 2-man studio during these times and we just can't keep up. All of our repoositories will remain free for you to use. However they will no longer be updated.
-
-
+## 👋 Welcome to SavageSzym Group!
+Here you will find some repositories that I have decided to make public for everyone to use - they range across different topics. Please note that most will be in archive state due to them being one-time projects which are put off to rest and showcase and will not be further maintained. 
